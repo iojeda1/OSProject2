@@ -143,4 +143,8 @@ int main(int argc, char *argv[]) {
     }
     return 0;
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1315edf000bb3f7e84c293897f132661a7b694bf
